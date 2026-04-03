@@ -47,12 +47,12 @@ export default function LandingPage() {
             description="Expert room, bathroom, and kitchen remodeling services, custom cabinetry, and premium flooring installations. Quality craftmanship for your dream space."
             buttons={[{ text: "Get a Quote", href: "#contact" }]}
             carouselItems={[
-              { id: "1", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg", imageAlt: "Luxurious bathroom" },
-              { id: "2", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg", imageAlt: "Custom kitchen" },
-              { id: "3", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg", imageAlt: "Hardwood floors" },
-              { id: "4", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg", imageAlt: "Granite counters" },
-              { id: "5", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg", imageAlt: "Full renovation" },
-              { id: "6", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg", imageAlt: "Custom cabinets" },
+              { id: "1", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg?_wi=1", imageAlt: "Luxurious bathroom" },
+              { id: "2", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg?_wi=2", imageAlt: "Custom kitchen" },
+              { id: "3", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg?_wi=3", imageAlt: "Hardwood floors" },
+              { id: "4", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg?_wi=4", imageAlt: "Granite counters" },
+              { id: "5", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg?_wi=5", imageAlt: "Full renovation" },
+              { id: "6", imageSrc: "http://img.b2bpic.net/free-photo/open-drawers-kitchen-ergonomics-functional-space_169016-68869.jpg?_wi=6", imageAlt: "Custom cabinets" },
             ]}
           />
         </div>
@@ -79,12 +79,12 @@ export default function LandingPage() {
             gridVariant="uniform-all-items-equal"
             useInvertedBackground={true}
             products={[
-              { id: "1", name: "Modern Bathroom", price: "Renovation", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg" },
-              { id: "2", name: "Custom Cabinetry", price: "Custom Woodwork", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg" },
-              { id: "3", name: "Hardwood Floors", price: "Premium Flooring", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg" },
-              { id: "4", name: "Granite Kitchen", price: "Stone Installation", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg" },
-              { id: "5", name: "Tile Backsplash", price: "Custom Tile", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg" },
-              { id: "6", name: "Vanity Upgrade", price: "Bathroom Refinement", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg" },
+              { id: "1", name: "Modern Bathroom", price: "Renovation", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg?_wi=1" },
+              { id: "2", name: "Custom Cabinetry", price: "Custom Woodwork", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg?_wi=2" },
+              { id: "3", name: "Hardwood Floors", price: "Premium Flooring", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg?_wi=3" },
+              { id: "4", name: "Granite Kitchen", price: "Stone Installation", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg?_wi=4" },
+              { id: "5", name: "Tile Backsplash", price: "Custom Tile", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg?_wi=5" },
+              { id: "6", name: "Vanity Upgrade", price: "Bathroom Refinement", imageSrc: "http://img.b2bpic.net/free-photo/colorful-tiled-mosaic_1194-7521.jpg?_wi=6" },
             ]}
             title="Our Work Portfolio"
             description="Browse our recent custom remodeling and flooring installations."
