@@ -96,8 +96,8 @@ export default function LandingPage() {
             useInvertedBackground={false}
             title="Why Choose DS Flooring & Granite?"
             metrics={[
-              { label: "Years Experience", value: "15+", icon: Clock },
-              { label: "Projects Completed", value: "500+", icon: CheckCircle },
+              { label: "Years Experience", value: "7+", icon: Clock },
+              { label: "Projects Completed", value: "70+", icon: CheckCircle },
               { label: "Happy Clients", value: "100%", icon: Smile },
             ]}
             metricsAnimation="slide-up"
